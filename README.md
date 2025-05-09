@@ -65,4 +65,4 @@ The United States leads in Netflix content production, followed by India and the
 
 There’s a diverse global spread, but certain regions have a higher proportion of either movies or TV shows.
 
-https://github.com/SAGAR-PANJA/Netflix-movies/blob/main/Screenshot%202025-05-09%20143408.png
+(https://github.com/SAGAR-PANJA/Netflix-movies/blob/main/Screenshot%202025-05-09%20143408.png)
